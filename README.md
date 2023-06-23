@@ -1,1 +1,3 @@
-# plannner_App
+# planner_app
+
+A new Flutter project.
